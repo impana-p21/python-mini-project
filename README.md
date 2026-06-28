@@ -1,5 +1,4 @@
 # python-mini-project
-# Python Mini Projects
 
 A collection of beginner-friendly Python programs created for learning basic programming concepts.
 
